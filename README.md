@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my page 👋
 
-<!--
-**DavidL1023/DavidL1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Aspiring Game Dev
+I've been playing games all my life, hoping to have a career in creating them one day!
 
-Here are some ideas to get you started:
+💪 Experience
+I'm about to receive my bachelor for computer science, I also have many projects showcased on my website and github profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Studying
+My current goal for this year is to learn inside and out things like
+
+-Unity
+-Unreal
+-C++
+-C#
+
+📫 Reach me
+I have my email and website attached on my profile
