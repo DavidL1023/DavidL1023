@@ -1,4 +1,5 @@
-# Welcome to my page 👋
+# Yo 👋😑 
+# I'm David,
 
 ## 🔭 Aspiring Game Dev
 I've been playing games all my life, hoping to have a career in creating them one day!
@@ -16,3 +17,5 @@ My current goal for this year is to learn inside and out things like
 
 ## 📫 Reach me
 I have my email and website attached on my profile
+
+![til](./yooo.gif)
