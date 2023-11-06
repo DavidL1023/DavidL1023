@@ -1,6 +1,3 @@
-# Yo 👋😑 
-# I'm David,
-
 ## 🔭 Aspiring Game Dev
 I've been playing games all my life, hoping to have a career in creating them one day!
 
