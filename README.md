@@ -1,5 +1,5 @@
 ## 🔭 Aspiring Software Dev
-I love all things tech!
+I love it
 
 ## 💪 Experience
 Check out my website and relevant repositories
