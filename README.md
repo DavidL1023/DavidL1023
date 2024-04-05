@@ -1,4 +1,4 @@
-## 🔭 Aspiring Software Dev
+## 🔭 I make games
 I love it
 
 ## 💪 Experience
