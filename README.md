@@ -1,5 +1,5 @@
 ## 🔭 I make games
-I love it
+C#, C++, Godot believer!
 
 ## 💪 Experience
 Check out my website and relevant repositories
