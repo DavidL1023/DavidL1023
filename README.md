@@ -1,5 +1,5 @@
-## 🔭 I make games
-C#, C++, Godot believer!
+## 🔭 I program
+I can do anything!
 
 ## 💪 Experience
 Check out my website and relevant repositories
