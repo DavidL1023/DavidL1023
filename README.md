@@ -1,5 +1,5 @@
 ## 🔭 I program
-I can do anything!
+Looking to be a web developer
 
 ## 💪 Experience
 Check out my website and relevant repositories
